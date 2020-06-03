@@ -36,7 +36,7 @@ public class HealCommand implements CommandExecutor {
 					
 			} else {
 				player.sendMessage("§cYou have no right to do this!"); 
-				}
+			}
 		  
 		} else {
 			sender.sendMessage("§cYou can only use this command as a player!");
